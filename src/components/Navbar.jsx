@@ -20,6 +20,10 @@ export default function Navbar() {
           <span className="logo-symbol">&lt;/&gt;</span>
           Shah Almoveed
         </a>
+        <a href="#home" className="logo">
+          {/* <span className="logo-symbol">&lt;/&gt;</span> */}
+          Islamabad Pakistan
+        </a>
 
         <nav className={`nav-links ${open ? "open" : ""}`}>
           {links.map((link) => (
