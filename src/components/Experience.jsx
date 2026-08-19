@@ -24,7 +24,7 @@ export default function Experience() {
                 EDUCATION
               </span>
 
-              <h3>BS Computer Engineering (2019-2023)</h3>
+              <h3>Electronics Engineering (2019-2023)</h3>
 
               <p className="experience-place">
                 Ghulum Ishaq Khan Institute of Engineering Sciences and Technology
