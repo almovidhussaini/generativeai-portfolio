@@ -21,6 +21,32 @@ export const projects = [
   },
 
   {
+title: "AI Customer Support Agent",
+
+category: "Agentic AI / LangGraph",
+
+description:
+"Production-oriented AI customer support agent with intelligent inquiry classification, customer memory, ticket creation, personalized responses, FastAPI backend, and Streamlit frontend.",
+
+technologies: [
+"Python",
+"LangGraph",
+"LangChain",
+"LangMem",
+"Groq",
+"FastAPI",
+"Streamlit",
+"Pydantic",
+],
+
+github: "https://github.com/almovidhussaini/customer-support",
+
+demo: "#",
+
+featured: true,
+},
+
+  {
   title: "Agentic AI Research Assistant | LangGraph | RAG | LLMs",
 
   category: "Multi-Agent Systems",
