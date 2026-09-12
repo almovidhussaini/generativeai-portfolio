@@ -43,9 +43,23 @@ github: "https://github.com/almovidhussaini/customer-support",
 
 demo: "#",
 
-featured: true,
 },
 
+{
+title: "Multi-Agent Research & Execution System",
+category: "Agentic AI / LangGraph",
+description:
+"Multi-agent system that uses web research, LLM-based planning, and task execution under an orchestrator to transform user requests into executable workflows.",
+technologies: [
+"Python",
+"LangGraph",
+"LangChain",
+"Groq",
+"DDGS",
+],
+github: "https://github.com/almovidhussaini/multiagentblog1",
+demo: "#",
+},
   {
   title: "Agentic AI Research Assistant | LangGraph | RAG | LLMs",
 
